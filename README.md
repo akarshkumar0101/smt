@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://akarshkumar.com/smt/">
-    <img width="700" alt="Discovered ALife Simulations" src="assets/teaser_methods.png"></a><br>
+    <img width="700" alt="SMT Teaser" src="assets/teaser_methods.png"></a><br>
 </h1>
 
 
@@ -16,7 +16,7 @@ Pretraining Recurrent Networks without Recurrence
 <!-- <a href="https://colab.research.google.com/github/akarshkumar0101/smt/blob/master/tutorial.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> -->
 </p>
 
-[Akarsh Kumar](https://x.com/akarshkumar0101), [Phillip Isola](https://x.com/phillip_isola)
+[Akarsh Kumar](https://akarshkumar.com/), [Phillip Isola](https://web.mit.edu/phillipi/)
 <br>
 MIT
 
