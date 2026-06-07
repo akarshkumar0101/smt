@@ -42,7 +42,7 @@ Important files:
 - `src/train_smt.py`: code to train teacher+RNN with SMT.
 - `src/train_dmt.py`: code to train teacher+RNN with DMT.
 - `main.ipynb`: a notebook walking you through the code.
-- `tutorial.ipynb`: a notebook walking you through the basics of SMT 
+- `tutorial.ipynb`: a notebook walking you through the basics of SMT (coming soon).
 
 Dataset files:
 - `src/my_datasets/mnist.py`: code for gathering MNIST data.
